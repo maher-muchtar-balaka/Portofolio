@@ -1,27 +1,18 @@
-🚀 Hai, Saya Maher Muchtar 👋#
+# 🚀 Hai, Saya Maher Muchtar 👋
 
 💻 Pengembang Santai Tapi Serius | Pecinta Web & Trading
 
 
 ---
 
-#🧠 Tentang Saya
+# 🧠 Tentang Saya
 
 🌞 Seorang pelajar yang sedang mendalami dunia web development dan perdagangan online.
 Biasanya ngoding malam sambil ngopi ☕ dan sesekali cek grafik candlestick 📈.
 💬 Motto: “Santai boleh, tapi hasil harus nyata.” 😎
 
 
----
-
-🧩 Teknologi yang Saya Gunakan
-
-
-
-
----
-
-#🛠️ Kemampuan Saya
+# 🛠️ Kemampuan Saya
 
 Kategori	Keahlian
 
@@ -32,10 +23,7 @@ Soft Skill	Fokus, Disiplin, Cepat Beradaptasi
 Trading & Keuangan	Analisis Teknikal, Manajemen Risiko, Trendline
 
 
-
----
-
-#📈 Progres Belajar
+# 📈 Progres Belajar
 
 Bidang	Status
 
@@ -46,10 +34,7 @@ C++	🧩 Sedang belajar logika
 Trading	💹 Aktif latihan tiap hari
 
 
-
----
-
-#🌈 Fakta Menarik
+# 🌈 Fakta Menarik
 
 Suka ngoding sambil pantau XAU/USD
 
@@ -61,25 +46,14 @@ Slogan pribadi: “Koding dulu, revisi belakangan.” 😂
 
 
 
----
-
-#🔗 Terhubung dengan Saya
-
-
-
-
-
-
----
-
-#⚡ Statistik GitHub
+# ⚡ Statistik GitHub
 
 (Segera diperbaiki — masih error di konfigurasi username 😅)
 
 
 ---
 
-#✨ Kutipan Hari Ini
+# ✨ Kutipan Hari Ini
 
 > “Terus belajar, terus ngoding, dan jangan berhenti berkembang — langkah kecil juga tetap maju.” 💪
 
