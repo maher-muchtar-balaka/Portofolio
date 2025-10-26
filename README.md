@@ -1,11 +1,11 @@
-🚀 Hai, aku Muhammad Fakhri 👋
+#🚀 Hai, Saya Maher Muchtar 👋
 
 💻 Pengembang Santai Tapi Serius | Pecinta Web & Trading
 
 
 ---
 
-🧠 Tentang Saya
+#🧠 Tentang Saya
 
 🌞 Seorang pelajar yang sedang mendalami dunia web development dan perdagangan online.
 Biasanya ngoding malam sambil ngopi ☕ dan sesekali cek grafik candlestick 📈.
@@ -21,7 +21,7 @@ Biasanya ngoding malam sambil ngopi ☕ dan sesekali cek grafik candlestick 📈
 
 ---
 
-🛠️ Kemampuan Saya
+#🛠️ Kemampuan Saya
 
 Kategori	Keahlian
 
@@ -35,7 +35,7 @@ Trading & Keuangan	Analisis Teknikal, Manajemen Risiko, Trendline
 
 ---
 
-📈 Progres Belajar
+#📈 Progres Belajar
 
 Bidang	Status
 
@@ -49,7 +49,7 @@ Trading	💹 Aktif latihan tiap hari
 
 ---
 
-🌈 Fakta Menarik
+#🌈 Fakta Menarik
 
 Suka ngoding sambil pantau XAU/USD
 
@@ -63,7 +63,7 @@ Slogan pribadi: “Koding dulu, revisi belakangan.” 😂
 
 ---
 
-🔗 Terhubung dengan Saya
+#🔗 Terhubung dengan Saya
 
 
 
@@ -72,14 +72,14 @@ Slogan pribadi: “Koding dulu, revisi belakangan.” 😂
 
 ---
 
-⚡ Statistik GitHub
+#⚡ Statistik GitHub
 
 (Segera diperbaiki — masih error di konfigurasi username 😅)
 
 
 ---
 
-✨ Kutipan Hari Ini
+#✨ Kutipan Hari Ini
 
 > “Terus belajar, terus ngoding, dan jangan berhenti berkembang — langkah kecil juga tetap maju.” 💪
 
